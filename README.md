@@ -38,11 +38,6 @@ Durante o desenvolvimento, foram trabalhados os seguintes conceitos de **Program
 
 ---
 
-## 🧑‍💻 Autora
-
-Sabrina Silva
-Estudante de Sistema da Informação💻
-
 ## 🎯 Objetivo da Atividade
 
  Atividade prática solicitada na disciplina de Desenvolvimento em TypeScript, com o intuito de:
@@ -51,3 +46,8 @@ Estudante de Sistema da Informação💻
 - Estruturar um projeto em módulos;
 - Documentar corretamente no README e publicar no GitHub;
 - Gravar um vídeo explicativo sobre o funcionamento do código.
+
+## 🧑‍💻 Autora
+
+Sabrina Silva
+Estudante de Sistema da Informação💻
