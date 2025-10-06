@@ -49,5 +49,4 @@ Durante o desenvolvimento, foram trabalhados os seguintes conceitos de **Program
 
 ## 🧑‍💻 Autora
 
-Sabrina Silva
-Estudante de Sistema da Informação💻
+Sabrina Costa Silva - Estudante de Sistema da Informação💻
