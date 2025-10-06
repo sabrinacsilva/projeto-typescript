@@ -47,6 +47,10 @@ Durante o desenvolvimento, foram trabalhados os seguintes conceitos de **Program
 - Documentar corretamente no README e publicar no GitHub;
 - Gravar um vídeo explicativo sobre o funcionamento do código.
 
+## 🎥 Vídeo explicativo da atividade
+O vídeo está disponível neste link do OneDrive:  
+[🔗 Assistir vídeo](https://drive.google.com/file/d/1zgZ0HvQgS-O_WRJLjY0KWKZO5RrIFvD6/view?usp=sharing)
+
 ## 🧑‍💻 Autora
 
 Sabrina Costa Silva - Estudante de Sistema da Informação💻
